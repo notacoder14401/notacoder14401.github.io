@@ -1,0 +1,9 @@
+div.top{
+    width:100%;
+    overflow:auto
+}
+
+div.top div{
+    width: 33%;
+    float: left
+}
