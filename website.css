@@ -1,6 +1,7 @@
 div.top{
     width:100%;
-    overflow:auto
+    overflow:auto;
+    background-color: darkgray;
 }
 div.top div{
     width: 50%;
