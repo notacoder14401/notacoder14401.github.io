@@ -13,9 +13,12 @@ div.top{
     width:100%;
     overflow:auto;
     background-color: white;
-    position: top;
     height:auto;
     text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 div.top div{
     margin-left: 4vh;
